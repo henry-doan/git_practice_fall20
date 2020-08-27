@@ -31,7 +31,7 @@ Warning*
 
 git init 
 - create a repo in the current folder you are in
-- run once pre project 
+- run once per project 
 
 git status 
 - info coding version process
@@ -41,3 +41,20 @@ git status
 
 git add .
 - track these changes 
+
+git commit -m ''
+- label the changes you just make
+- have already done 
+- < 50 characters
+- useful, what it is you worked on
+
+git log
+git log --oneline
+- show the commits
+
+check your work
+- no error
+- does work 
+
+git add .
+git commit -m ''
