@@ -145,3 +145,11 @@ git push origin branch_name
 on github a pull request 
 - wait for approval 
 merge to the master 
+
+
+on git hub
+add collab members
+
+m will go and accept invite 
+grab the ssh 
+git clone *past ssh url 
