@@ -5,7 +5,7 @@ class Main
   include Git
 
   def self.menu
-    puts 'Main menu'.colorize(:cyan)
+    puts 'Main menu'.colorize(:blue)
     puts '1: Enter git command'.colorize(:cyan)
     puts '2: Exit'.colorize(:red)
     choice = gets.to_i
