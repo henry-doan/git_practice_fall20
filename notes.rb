@@ -78,3 +78,70 @@ esc out of insert mode into command
 
 git commit --amend 
 - want to change last commit message
+
+
+git hub stage 
+- create a github repo 
+ - once per project
+
+git remote add origin *paste what you copy 
+- ssh 
+- connect your local repo to the github repo 
+
+git push origin master
+- pushes all recents changes to github 
+
+collab
+
+Branches
+- master
+  most up to date working code 
+
+- feature Branches
+  - multiple features at the same time 
+
+- git branch
+- list out all the branch
+- list out current branch you are in 
+
+- git branch branch_name
+- create branch called clean
+
+- git checkout branch_name
+- go to a branch you list 
+
+- git checkout -b branch_name
+- create a branch
+- nav to that branch 
+
+- git branch -D branch_name
+- delete a branch
+- delete all changes too
+
+- checking your work
+- saving
+- git add .
+- git commit -m 'what you done'
+
+- git fetch origin master 
+- in the master branch 
+- grab all code and version from github to local repo
+
+- git rebase origin/master 
+- in master branch 
+- try to combine github and your code 
+  - if you have confilcts 
+  - resolves confilcts
+  -save 
+  git add .
+  git rebase --continue 
+
+git checkout your branch 
+git fetch origin master
+git rebase origin/master 
+
+git push origin branch_name 
+
+on github a pull request 
+- wait for approval 
+merge to the master 
