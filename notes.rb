@@ -122,3 +122,26 @@ Branches
 - saving
 - git add .
 - git commit -m 'what you done'
+
+- git fetch origin master 
+- in the master branch 
+- grab all code and version from github to local repo
+
+- git rebase origin/master 
+- in master branch 
+- try to combine github and your code 
+  - if you have confilcts 
+  - resolves confilcts
+  -save 
+  git add .
+  git rebase --continue 
+
+git checkout your branch 
+git fetch origin master
+git rebase origin/master 
+
+git push origin branch_name 
+
+on github a pull request 
+- wait for approval 
+merge to the master 
