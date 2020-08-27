@@ -60,3 +60,21 @@ git add .
 git commit -m ''
 repeat this step
 
+
+git commit 
+VIM - editor in the term
+1 command
+2 insert
+3 visual 
+
+command, 
+write stuff insert mode
+i 
+
+esc out of insert mode into command 
+
+:wq
+- resolving conflict 
+
+git commit --amend 
+- want to change last commit message
