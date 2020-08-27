@@ -117,3 +117,8 @@ Branches
 - git branch -D branch_name
 - delete a branch
 - delete all changes too
+
+- checking your work
+- saving
+- git add .
+- git commit -m 'what you done'
