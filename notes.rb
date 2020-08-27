@@ -58,3 +58,5 @@ check your work
 
 git add .
 git commit -m ''
+repeat this step
+
